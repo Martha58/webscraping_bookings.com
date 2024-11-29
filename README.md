@@ -1,6 +1,6 @@
 # webscraping_bookings.com
 
-#Project Overview
+# Project Overview
 
 Booking.com is a dynamically built website with stringent anti-scraping measures, presenting significant challenges for data extraction. This ongoing project is designed to demonstrate my web scraping expertise by developing a solution that extracts detailed hotel information from Booking.com.
 
